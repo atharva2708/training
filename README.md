@@ -15,3 +15,4 @@ branch4 third commit
 master stash commit
 last commit
 local chnage
+changes in branch
